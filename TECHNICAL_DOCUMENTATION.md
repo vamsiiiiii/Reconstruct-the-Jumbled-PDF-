@@ -1,6 +1,6 @@
 # Technical Documentation
 
-## What We Built
+## What I Built
 
 An AI-powered PDF page reordering system that automatically fixes shuffled document pages using Google Document AI (OCR) and Gemini AI (intelligent ordering). Supports both scanned and digital PDFs with dual CLI/API interfaces.
 
@@ -80,3 +80,4 @@ An AI-powered PDF page reordering system that automatically fixes shuffled docum
 ---
 
 **Version**: 1.0.0
+
